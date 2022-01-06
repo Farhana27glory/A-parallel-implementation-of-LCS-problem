@@ -1,2 +1,2 @@
 # A-parallel-implementation-of-LCS-problem
-A Parallel Implementation Of Longest Common Sub-sequence Using Yang’s Algorithm
+I have implemented a parallel implementation of Longest Common Sub-sequence using Yang’s Algorithm using MPI, OpenMP and Hybrid of both as my term project. I have contrasted their performances doing some experiments. Input files contain two genome sequences [having genes as characters (A,C,G,T)] with total numbers of genes. For further understanding the project read the pdf report in details. 
